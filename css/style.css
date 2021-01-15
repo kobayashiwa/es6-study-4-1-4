@@ -53,6 +53,7 @@ header {
 /** main **/
 main {
 	width: 100%;
+	background: #023373;
 }
 
 /** footer **/
@@ -69,31 +70,9 @@ footer {
 
 
 
-/** slide-show **/
-.slide-show {
-	background-image: url(../img/slide-show_bg.png);
-	background-size: cover;
-	padding: 120px 0 144px 0;
-}
-.slide-show h3 {
-	color: #fff;
-	text-align: center;
-}
-.slide-blc {
-	margin-top: 64px;
-	background: #fff;
-}
-.img-blc {
-	max-width: 640px;
-	max-height: 640px;
-}
-.img-blc img {
-	height: 100%;
-}
-.slide-show .text-blc {
-	padding: 80px 80px 48px 80px;
-	text-align: left;
-}
+
+
+
 .slide-show .text-blc h4{
 	font-size: 40px;
 	color: #3f3f3f;
