@@ -56,40 +56,8 @@ header {
 
 
 
-.top-cover h1 {
-	font-size: 88px;
-	font-weight: 400;
-	position:relative;
-	padding-bottom: 48px;
-}
-.top-cover h1::after {
-	content:"";
-	display:block;
-	width:400px;
-	height:1px;
-	background-color:#fff;
-	position:absolute;
-	bottom:0;
-	left:50%;
-	transform: translate(-50%, 0);
-}
-.top-cover h2 {
-	font-size: 16px;
-	margin-top: 40px;
-	padding: 0 24px;
-}
-/** main-menu **/
-.main-menu .container {
-	justify-content:space-between;
-	align-items: center;
-}
-.main-menu h3 {
-	font-size: 72px;
-	color: #4A4A4A;
-}
-.main-menu ul {
-	margin-top: 48px;
-}
+
+
 .main-menu li {
 	font-size: 18px;
 	color: #66665E;
