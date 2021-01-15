@@ -46,37 +46,16 @@ ul, li {
 
 /** header **/
 header {
-	position: fixed;
-	top: 0;
-	z-index: 100;
 	width: 100%;
-	background: rgba(0, 0, 0, 0.3);
-	text-align: center;
 }
-header ul {
-	padding: 24px 0;
-	justify-content: center;
-}
-header li a {
-	display: inline-block;
-	color: #fff;
-	margin: 0 48px;
-}
-header li a:hover {
-	text-decoration: underline;
-}
-/** top-cover **/
-.top-cover {
-	background-image: url(../img/TopCover.png);
-	background-size: cover;
-	padding: 30vh 0;
-	color: #fff;
-}
-.top-cover .container {
-	max-width: 960px;
-	padding: 24px;
-	text-align: center;
-}
+
+
+
+
+
+
+
+
 .top-cover h1 {
 	font-size: 88px;
 	font-weight: 400;
