@@ -58,53 +58,15 @@ header {
 
 
 
-.main-menu li {
-	font-size: 18px;
-	color: #66665E;
-	line-height: 180%;
-}
-.text-blc {
-	text-align: center;
-	max-width: 648px;
-	padding: 0 5%;
-}
-.text-blc .taste {
-	font-size: 24px;
-	color: #E0931E;
-}
-.price {
-	margin-top: 24px;
-	padding: 24px 0;
-	font-size: 16px;
-	color: #66665E;
-	position: relative;
-}
-.price::before {
-	content:"";
-	display:block;
-	width:240px;
-	height:1px;
-	background-color:#E0931E;
-	position:absolute;
-	top:0;
-	left:50%;
-	transform: translate(-50%, 0);
-}
-.price::after {
-	content:"";
-	display:block;
-	width:240px;
-	height:1px;
-	background-color:#E0931E;
-	position:absolute;
-	bottom:0;
-	left:50%;
-	transform: translate(-50%, 0);
-}
-.price h4 {
-	font-size: 30px;
-	color: #7D7D7D;
-}
+
+
+
+
+
+
+
+
+
 .chef {
 	margin-top: 40px;
 }
