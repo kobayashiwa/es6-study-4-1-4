@@ -15,7 +15,7 @@ body {
 	overflow-x: hidden;
 	margin: 0;
 	padding: 0;
-	color: #1a1a1a;
+	color: #fff;
 	background: #fff;
 	font-family: 'Roboto Condensed', "Segoe UI", "Helvetica Neue", HelveticaNeue, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Verdana, Meiryo, sans-serif;
     font-feature-settings: "palt";
@@ -73,22 +73,8 @@ footer {
 
 
 
-.star::before {
-	font-weight: 900;
-}
-.star::after {
-	font-weight: 900;
-	color: #D8D8D8;
-}
-.star[data-rate="0.0"]:before {
-	content: "";
-}
-.star[data-rate="0.5"]:before {
-	content: "\f5c0";
-}
-.star[data-rate="1.0"]:before {
-	content: "\f005";
-}
+
+
 .star[data-rate="1.5"]:before {
 	content: "\f005\f5c0";
 }
