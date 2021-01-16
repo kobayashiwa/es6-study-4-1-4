@@ -67,22 +67,6 @@ footer {
 
 
 
-
-
-
-
-.star[data-rate="3.5"]:after {
-	content: "\f005";
-}
-.star[data-rate="4.0"]:after {
-	content: "\f005";
-}
-.star[data-rate="4.5"]:after {
-	content: "";
-}
-.star[data-rate="5.0"]:after {
-	content: "";
-}
 .slider1 {
 	height: 158px;
 	padding: 0 40px;
