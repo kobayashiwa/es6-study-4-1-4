@@ -71,21 +71,6 @@ footer {
 
 
 
-
-
-
-.star[data-rate="1.5"]:after {
-	content: "\f005\f005\f005";
-}
-.star[data-rate="2.0"]:after {
-	content: "\f005\f005\f005";
-}
-.star[data-rate="2.5"]:after {
-	content: "\f005\f005";
-}
-.star[data-rate="3.0"]:after {
-	content: "\f005\f005";
-}
 .star[data-rate="3.5"]:after {
 	content: "\f005";
 }
