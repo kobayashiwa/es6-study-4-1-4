@@ -72,15 +72,6 @@ footer {
 
 
 
-
-.address {
-	font-size: 16px;
-	color: #fff;
-	margin-bottom: 32px;
-}
-.map-blc {
-	margin: 0 0 0 120px;
-}
 #map {
 	max-width: 560px;
 	max-height: 560px;
