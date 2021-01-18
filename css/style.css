@@ -71,13 +71,8 @@ footer {
 
 
 
-.slider2 .swiper-wrapper .swiper-slide{
-	color: #9A9A9A;
-}
-.slider2 .swiper-slide-active .voice {
-	width: fit-content;
-	margin: 0 auto;
-}
+
+
 .slider2 .swiper-slide-active h4 {
 	font-size: 30px;
 	color: #66665E;
