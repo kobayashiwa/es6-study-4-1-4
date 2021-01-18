@@ -71,12 +71,8 @@ footer {
 
 
 
-::placeholder {
-	color: #757575;
-}
-.button {
-	text-align: right;
-}
+
+
 button {
 	background: rgba(0, 0, 0, 0.17);
 	border: 1px solid rgba(0, 0, 0, 0.17);
