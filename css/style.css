@@ -71,26 +71,6 @@ footer {
 
 
 
-
-
-
-.contact h4{
-	font-size: 30px;
-	color: #fff;
-	position: relative;
-	padding-bottom: 32px;
-	margin-bottom: 32px;
-}
-.contact h4::after {
-	content:"";
-	display:block;
-	width:120px;
-	height:1px;
-	background-color:rgba(44, 44, 44, 0.4);
-	position:absolute;
-	bottom:0;
-	left:0;
-}
 .contact-blc {
 	width: 400px;
 }
