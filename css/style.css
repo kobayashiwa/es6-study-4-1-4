@@ -74,28 +74,6 @@ footer {
 
 
 
-
-.slider2 .swiper-slide-active h4:after {
-	content:"";
-	display:block;
-	background: url(../img/guest-after.svg) no-repeat;
-	width:30px;
-	height: 56px;
-	position:absolute;
-	bottom:0;
-	right:-46px;
-}
-.slider2 .swiper-button-prev, .slider2 .swiper-button-next {
-	transform: rotate(90deg);	/* 元のボタンを90度回転 */
-	-moz-transform: rotate(90deg);
-	-webkit-transform: rotate(90deg);
-	-o-transform: rotate(90deg);
-	-ms-transform: rotate(90deg);
-	position: absolute;
-	right: 10%;
-	left: auto;
-	margin-top: 0;
-}
 .slider2 .swiper-button-prev {
 	top: 30%;
 }
