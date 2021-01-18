@@ -71,15 +71,6 @@ footer {
 
 
 
-.contact-blc {
-	width: 400px;
-}
-input, textarea {
-	width: 100%;
-	padding: 16px;
-	margin-bottom: 24px;
-	border: none;
-}
 ::placeholder {
 	color: #757575;
 }
