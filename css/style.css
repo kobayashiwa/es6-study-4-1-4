@@ -66,69 +66,9 @@ footer {
 
 
 
-.slider1 .swiper-slide img {
-	width: 100%;
-	border-radius: 50%;
-	box-shadow: 0 0 0 4px #fff, 0 0 0 6px #D8D8D8;
-}
 
-/** Service **/
-.service h3 {
-	color: #4A4A4A;
-	text-align: center;
-}
-.ServiceList {
-	margin-top: 64px;
-	justify-content: center;
-}
-.ServiceList li {
-	width: 240px;
-	margin: 0 20px;
-	text-align: center;
-}
-.ServiceIcon {
-	background: rgba(125, 125, 125, 0.11);
-	border: 1px solid #979797;
-	width: 240px;
-	height: 240px;
-	border-radius: 120px;
-	position: relative;
-}
-.ServiceIcon img {
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-}
-.ServiceList li p {
-	margin-top: 24px;
-	font-size: 20px;
-	color: #E0931E;
-}
 
-/** Photos **/
-.photos {
-	background: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../img/photos_bg.jpg);
-	background-size: cover;
-	padding: 120px 0;
-	text-align: center;
-}
-.photos h3 {
-	color: #fff;
-	text-align: center;
-}
-.flexbox {
-	margin-top: 64px;
-	display: flex;
-	flex-direction: column;
-	flex-wrap: wrap;
-	max-height: 85vw;
-	overflow: scroll;
-}
-.item {
-	width: 25%;
-	padding: 8px;
-}
+
 .item img {
 	width: 100%;
 }
