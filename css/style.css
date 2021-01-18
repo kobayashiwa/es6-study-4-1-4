@@ -73,21 +73,8 @@ footer {
 
 
 
-.slider2 .swiper-slide-active h4 {
-	font-size: 30px;
-	color: #66665E;
-	position: relative;
-}
-.slider2 .swiper-slide-active h4:before {
-	content:"";
-	display:block;
-	background: url(../img/guest-before.svg) no-repeat;
-	width:30px;
-	height: 56px;
-	position:absolute;
-	bottom:0;
-	left:-46px;
-}
+
+
 .slider2 .swiper-slide-active h4:after {
 	content:"";
 	display:block;
